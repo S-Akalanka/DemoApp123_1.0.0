@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0",
+  "name": "SAPBu3.DemoApp123.Mod1",
+  "description": "SAPBusinessOne WebClient UI API extension created by Visual Studio Code",
+  "b1.bundles": [
+    {
+      "id": "BPView.layout",
+      "baseViewGuid": "3priuW5ZRPeCHdaXSBbT2a",
+      "layout": "layout/BPView.layout.json",
+      "description": "BPView",
+      "i18n": {
+        "@@i18n": ["SAPBu3.DemoApp123.Mod1.i18n.i18n"]
+      }
+    }
+  ],
+  "allowedExternalURLs": "*",
+  "allowedServiceLayerAPIs": "*"
+}

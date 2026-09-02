@@ -1,0 +1,8 @@
+{
+  "applications": [
+    {
+      "name": "SAPBu3.DemoApp123.Mod1",
+      "path": "DemoApp123_1.0.0/Mod1/webapp"
+    }
+  ]
+}
